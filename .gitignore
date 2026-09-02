@@ -1,0 +1,15 @@
+# Logdateien der geplanten Aufgabe
+*.log
+logs/
+
+# Lokale Test-/Zwischenstaende
+*.local.ps1
+*.xml.tmp
+out/
+
+# Windows / Editoren
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
